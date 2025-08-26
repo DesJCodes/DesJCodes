@@ -1,12 +1,9 @@
 #  Hi, I'm Joe DeStefano
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Full%20Stack-Developer-blue?style=for-the-badge" alt="Full Stack Developer"/>
-  <br/>
-  <a href="mailto:destefanojoewebdev@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=flat-square&logo=gmail" alt="Email"/></a>
-  <a href="https://destefanojoewebdev.com/"><img src="https://img.shields.io/badge/Portfolio-Visit%20Site-green?style=flat-square&logo=react" alt="Portfolio"/></a>
-  <a href="https://www.linkedin.com/in/joeadestefano/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" alt="LinkedIn"/></a>
-</div>
+![Full Stack Developer](https://img.shields.io/badge/Full%20Stack-Developer-blue?style=for-the-badge)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=flat-square&logo=gmail)](mailto:destefanojoewebdev@gmail.com) 
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-green?style=flat-square&logo=react)](https://destefanojoewebdev.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/joeadestefano/)
 
 ## About Me
 
