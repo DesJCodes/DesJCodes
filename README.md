@@ -11,11 +11,29 @@
 
 ## About Me
 
-Front-end focused **Full-Stack Developer** with nearly 2 years of experience building scalable web applications using MERN stack and Python. I specialize in creating intuitive, responsive interfaces that deliver exceptional user experiences.
+I'm a **Front-End Focused Full-Stack Developer** with nearly 2 years of experience building scalable web applications using the **MERN stack** and **Python**.
 
-I'm known for developing the **AI-powered CFO Agenda Creator**, which streamlined executive planning by 50%. My approach combines technical expertise with a deep understanding of user needs, always focused on delivering high-quality, user-centered solutions.
+I specialize in crafting **intuitive, responsive interfaces** that elevate user experience by combining clean UI design with robust functionality. I thrive at the intersection of usability and performance.
 
-> "Transforming complex business challenges into elegant digital solutions"
+One of my key projects is the **AI-powered CFO Agenda Creator**, designed to streamline executive planning and reduce planning time by up to **50%**. Working closely with product teams and UI/UX designers, I focus on delivering **high-impact, user-centered solutions** that address complex business challenges.
+
+## Professional Experience
+
+### Full Stack Developer | Stealth Startup  
+*May 2024 – Present*  
+- Developed the AI-powered CFO Agenda Creator, aimed at reducing executive planning time by 50%  
+- Integrated RESTful APIs to enable real-time financial insights  
+- Collaborated with UI/UX designers to build modern, user-friendly interfaces  
+- Delivered MVP ahead of schedule to support critical investor presentations  
+
+### Freelance Web Developer | Self-Employed  
+*April 2024 – Present*  
+- Designed responsive websites for small businesses, focusing on boosting user engagement  
+- Developed e-commerce platforms featuring secure payment gateways  
+- Customized CMS solutions using the MERN stack  
+- Optimized website performance, targeting a 30% improvement in load times  
+
+> "I transform complex challenges into elegant digital experiences."
 
 ## 🛠Tech Stack
 
@@ -93,39 +111,6 @@ I'm known for developing the **AI-powered CFO Agenda Creator**, which streamline
 - **Tech stack**: React, Firebase, CSS3, Figma
 
 <br clear="right"/>
-
-## Professional Experience
-
-### Full Stack Developer | Stealth Startup
-*May 2024 - Present*
-
-- Built an AI-powered CFO Agenda Creator, reducing planning time by 50%
-- Integrated RESTful APIs for real-time financial insights
-- Collaborated with UI/UX designers to create modern interfaces
-- Delivered MVP ahead of schedule for critical investor presentations
-
-### Freelance Web Developer | Self-Employed
-*April 2024 - Present*
-
-- Designed responsive websites for small businesses, boosting engagement by 40%
-- Developed e-commerce platforms with secure payment gateways
-- Customized CMS solutions using MERN Stack
-- Optimized website performance, improving load times by 30%
-
-## Education & Certifications
-
-### Full Stack Developer Certification
-*Career Foundry, Berlin | Jan 2024 - Jan 2025*
-
-- Built fully responsive applications using React and Firebase
-- Implemented secure authentication and protected routes
-- Applied React Context API for scalable state management
-
-### Bachelor's Degree
-*American Public University, Charles Town | Sep 2018 - Nov 2022*
-
-- Leveraged analytical skills from health sciences to improve debugging
-- Collaborated effectively with cross-functional teams
 
 ## Let's Connect!
 
