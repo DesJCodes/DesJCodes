@@ -4,9 +4,8 @@
   <img src="https://img.shields.io/badge/Full%20Stack-Developer-blue?style=for-the-badge" alt="Full Stack Developer"/>
   <br/>
   <a href="mailto:destefanojoewebdev@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=flat-square&logo=gmail" alt="Email"/></a>
-  <a href="YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-Visit%20Site-green?style=flat-square&logo=react" alt="Portfolio"/></a>
-  <a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" alt="LinkedIn"/></a>
-  <a href="YOUR_GITHUB_URL"><img src="https://img.shields.io/badge/GitHub-Follow-black?style=flat-square&logo=github" alt="GitHub"/></a>
+  <a href="https://destefanojoewebdev.com/"><img src="https://img.shields.io/badge/Portfolio-Visit%20Site-green?style=flat-square&logo=react" alt="Portfolio"/></a>
+  <a href="https://www.linkedin.com/in/joeadestefano/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" alt="LinkedIn"/></a>
 </div>
 
 ## About Me
