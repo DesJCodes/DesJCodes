@@ -121,6 +121,5 @@ One of my key projects is the **AI-powered CFO Agenda Creator**, designed to str
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blueviolet&style=flat-square" alt="Profile Views" />
-  <p>💻 Always coding, always learning, always improving!</p>
+  <p>Always coding, always learning, always improving!</p>
 </div>
