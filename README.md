@@ -10,11 +10,11 @@
 
 ## About Me
 
-I'm a **Front-End Focused Full-Stack Developer** with nearly 2 years of experience building scalable web applications using the **MERN stack** and **Python**.
+I’m a Front-End focused Full-Stack Developer with nearly two years of experience building scalable web applications using the MERN stack and Python. I excel at designing intuitive, responsive interfaces that combine clean aesthetics with strong functionality to create smooth and engaging user experiences. My passion lies in balancing usability and performance to build solutions that are both visually appealing and highly efficient.
 
-I specialize in crafting **intuitive, responsive interfaces** that elevate user experience by combining clean UI design with robust functionality. I thrive at the intersection of usability and performance.
+One of my key projects is the AI-powered CFO Agenda Creator, a tool designed to simplify executive planning and reduce planning time by up to 50%. Working closely with product teams and UI/UX designers, I focus on delivering impactful, user-centered applications that address complex business needs.
 
-One of my key projects is the **AI-powered CFO Agenda Creator**, designed to streamline executive planning and reduce planning time by up to **50%**. Working closely with product teams and UI/UX designers, I focus on delivering **high-impact, user-centered solutions** that address complex business challenges.
+What makes me stand out as a Junior Developer is my ability to independently overcome challenges. When faced with obstacles, I dive into research, try different strategies, and quickly learn new technologies—often figuring things out on my own without relying on others. I’m not just growing my coding skills; I’m building resilience and adaptability, which empowers me to confidently handle complex projects and deliver exceptional results.
 
 ## Professional Experience
 
