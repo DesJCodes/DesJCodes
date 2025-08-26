@@ -116,19 +116,9 @@ One of my key projects is the **AI-powered CFO Agenda Creator**, designed to str
 <div align="center">
   <a href="mailto:destefanojoewebdev@gmail.com"><img src="https://img.shields.io/badge/Email-destefanojoewebdev%40gmail.com-red?style=for-the-badge&logo=gmail" alt="Email"/></a>
   <br/>
-  <a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" alt="LinkedIn"/></a>
-  <a href="YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-Visit%20Site-green?style=flat-square&logo=react" alt="Portfolio"/></a>
-  <a href="YOUR_GITHUB_URL"><img src="https://img.shields.io/badge/GitHub-Follow-black?style=flat-square&logo=github" alt="GitHub"/></a>
+   <a href="https://destefanojoewebdev.com/"><img src="https://img.shields.io/badge/Portfolio-Visit%20Site-green?style=flat-square&logo=react" alt="Portfolio"/></a>
+  <a href="https://www.linkedin.com/in/joeadestefano/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" alt="LinkedIn"/></a>
 </div>
-
-## GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical" alt="GitHub Streak" />
-</div>
-
----
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blueviolet&style=flat-square" alt="Profile Views" />
